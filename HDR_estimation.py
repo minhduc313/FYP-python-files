@@ -1,4 +1,4 @@
-#Bayes factor 
+#HDR_estimation and likelihood calculation
 
 from posixpath import relpath
 import seaborn as sns
